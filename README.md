@@ -9,7 +9,7 @@
 - [`codsen-parser`](https://codsen.com/os/codsen-parser) — a parser on top of `codsen-tokenizer`, builds AST's from tokens
 - last but not least, [`emlint`](https://codsen.com/os/emlint) — email template linter — aim is to find and detect email template rendering bugs while editing code
 
-There are around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). I'm co-maintainer of a few more.
+There are around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). I'm co-maintainer of a few more. See the TS-Lerna monorepo at Github [Codsen's org space](https://github.com/codsen/codsen).
 
 💼 Codsen
 
