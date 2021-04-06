@@ -1,4 +1,4 @@
-👋 Hi! I'm Roy. I like to write and maintain Open Source JS/TS programs. Also, I like to lift, draw and drink beer, but who does not?
+👋 Hi! I'm Roy. I like to write and maintain Open Source programs. Also, I like to lift, draw and drink beer, but who does not?
 
 🔭 My flagship projects are:
 
