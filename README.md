@@ -17,4 +17,4 @@ Codsen Ltd. is my personal company through which I used to contract before UK's 
 
 🌱 I’m currently learning Go and backend Node.js.
 
-📫 How to reach me: email me.
+📫 How to reach me: email me for example.
