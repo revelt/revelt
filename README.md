@@ -13,7 +13,7 @@ There are around 120 [open source packages](https://codsen.com/os) on npm, a doz
 
 💼 Codsen
 
-Codsen Ltd. is my personal company through which I used to contract before UK's IR35, and Covid happened. It's the opposite of "normal" companies out there, zero open source but max income — we've got max open source and zero income 😂. I guess being able to work purely on passion projects, disregarding the monetisation, helps. For example, `emlint` is impossible to monetise, like any other linters, notably Mr Crockford's `jslint`. He was the first. There is a huge void space — programs humanity needs but hard to make and impossible to monetise. Oh well.
+Codsen Ltd. is my personal company through which I used to contract before UK's IR35, and Covid happened. It's the opposite of "normal" companies out there, zero open source but max income — we've got max open source and zero income 😂. I guess being able to work purely on passion projects, disregarding the monetisation, helps. For example, `emlint` is impossible to monetise, like any other linters, notably Mr Crockford's `jslint`. He was the first. There is a huge void space — programs humanity needs but are hard/impossible to make and impossible to monetise. Oh well.
 
 🌱 I’m currently learning Go and backend Node.js.
 
