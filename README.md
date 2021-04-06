@@ -9,7 +9,7 @@
 - [`codsen-parser`](https://codsen.com/os/codsen-parser) — a parser on top of `codsen-tokenizer`, builds AST's from tokens
 - last but not least, [`emlint`](https://codsen.com/os/emlint) — email template linter — the aim is to find and detect email template rendering bugs during coding, before sending tests to _Email on Acid_ or _Litmus_. You probably have heard about Outlook rendering engine [horrors](https://www.caniemail.com/scoreboard/). `emlint` is aimed at email template HTML but gives a good run for web page linters money. We've got the whole HTML4 spec built-in already, detergent.js equivalent based in rules, and it's already more powerful than `CSSTree` [validator](https://csstree.github.io/docs/validator.html). Currently still work-in-progress.
 
-There are around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). I'm co-maintainer of a few more. See the TS-Lerna monorepo at Github [Codsen's org space](https://github.com/codsen/codsen).
+There are around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). See the TS-Lerna monorepo at Github [Codsen's org space](https://github.com/codsen/codsen).
 
 💼 Codsen
 
