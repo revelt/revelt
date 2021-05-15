@@ -1,4 +1,4 @@
-👋 Hi! I'm Roy.
+👋 Hi! I'm Roy. I created and maintain around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). See the TS-Lerna monorepo at Github [Codsen's org space](https://github.com/codsen/codsen).
 
 🔭 My flagship projects are:
 
@@ -6,8 +6,6 @@
 - [`html-crush`](https://codsen.com/os/html-crush) — mixed HTML minifier (see the [GUI](https://htmlcrush.com))
 - [`detergent`](https://codsen.com/os/detergent) — invisible character cleaner, encoder and style fixer ([GUI](https://detergent.io))
 - last but not least, [`emlint`](https://codsen.com/os/emlint) — email template linter — the aim is to find and detect email template rendering bugs during coding, before sending tests to _Email on Acid_ or _Litmus_. Currently work-in-progress.
-
-I created and maintain around 120 [open source packages](https://codsen.com/os) on npm, a dozen of them are CLI's, some of them even with [playgrounds](https://codsen.com/os/play). See the TS-Lerna monorepo at Github [Codsen's org space](https://github.com/codsen/codsen).
 
 💼 Codsen
 
