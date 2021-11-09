@@ -1,4 +1,4 @@
-👋 Hi! I'm Roy. All my Open Source projects are published under [codsen](https://github.com/codsen) org account, not here. Codsen ltd. is my limited company which started back in 2014 when I started contracting. Even though recently I had to switch to full-time because of Covid and IR35, [codsen.com](https://codsen.com) is still alive, and I continue to maintain and create new Open Source packages under "Codsen" name.
+👋 Hi! I'm Roy. All my Open Source projects are published under [codsen](https://github.com/codsen) org account, not here.
 
 🔭 My main projects are:
 
