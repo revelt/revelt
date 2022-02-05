@@ -1,4 +1,4 @@
-👋 Hi! I'm Roy. All my Open Source projects are published under [codsen](https://github.com/codsen) org account, not here.
+👋 Hi! I'm Roy. All my Open Source projects are published under GitHub [codsen](https://github.com/codsen) org account, not here. Here you'll see mostly cheeky forks which should have been deleted by now.
 
 🔭 My main projects are:
 
