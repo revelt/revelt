@@ -9,7 +9,7 @@
 - eslint plugin: [`eslint-plugin-row-num`](https://codsen.com/os/eslint-plugin-row-num)
 - file streams: [`tap-parse-string-to-object`](https://codsen.com/os/tap-parse-string-to-object)
 - Observer pattern using Node's `EventEmmitter`: [`emlint`](https://codsen.com/os/emlint)
-- CLI: [`csv-sort`](https://codsen.com/os/csv-sort)
+- one of a dozen CLIs: [`csv-sort-cli`](https://codsen.com/os/csv-sort-cli)
 - callback-only API: [`ast-monkey-traverse-with-lookahead`](https://codsen.com/os/ast-monkey-traverse-with-lookahead)
 - fetches values from internet: [`update-versions`](https://codsen.com/os/update-versions)
 - Unicode astral character-aware: [`easy-replace`](https://codsen.com/os/easy-replace)
