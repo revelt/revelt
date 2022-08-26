@@ -40,6 +40,6 @@ See the full list on [codsen.com/os/](https://codsen.com/os)
 
 All the above was done outside 9–5 work hours, and many people (including me) use them in production, during 9–5.
 
-I ❤️ doing this because I can and because my programs empower people to build even greater programs and to perform business tasks and get paid and feed their families.
+I ❤️ programming because I can create things and because my programs empower people to build even greater programs and to perform business tasks and get paid and feed their families.
 
 Thanks for visiting!
