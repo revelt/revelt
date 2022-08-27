@@ -15,6 +15,7 @@
 	- JSON: [`edit-package-json`](https://codsen.com/os/edit-package-json)
 	- TypeScript: [`tsd-extract`](https://codsen.com/os/tsd-extract)
 	- CSV: [`csv-split-easy`](https://codsen.com/os/csv-split-easy)
+	- Commitizen-generated `CHANGELOG.md`: [`lerna-clean-changelogs`](https://codsen.com/os/lerna-clean-changelogs)
 	- human prose: [`string-apostrophes`](https://codsen.com/os/string-apostrophes)
 - Variety of program API styles:
 	- Classes-based API: [`ranges-push`](https://codsen.com/os/ranges-push)
