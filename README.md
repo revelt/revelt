@@ -1,4 +1,4 @@
-👋 Hi! I'm Roy, I'm from UK 🇬🇧. All my Open Source projects are published under GitHub [codsen](https://github.com/codsen) org account, not here. Here you'll see mostly forks which I haven't bothered to delete yet.
+👋 Hi! I'm Roy; I'm from the UK 🇬🇧. All my Open Source projects are published under GitHub [codsen](https://github.com/codsen) org account, not here. Here you'll see primarily forks which I haven't bothered to delete yet.
 
 🔭 I wrote and maintain a broad spectrum of Open Source programs, for example:
 
@@ -15,13 +15,14 @@
 	- JSON: [`edit-package-json`](https://codsen.com/os/edit-package-json)
 	- TypeScript: [`tsd-extract`](https://codsen.com/os/tsd-extract)
 	- CSV: [`csv-split-easy`](https://codsen.com/os/csv-split-easy)
+	- IANA language codes: [`is-language-code`](https://codsen.com/os/is-language-code)
 	- Commitizen-generated `CHANGELOG.md`: [`lerna-clean-changelogs`](https://codsen.com/os/lerna-clean-changelogs)
 	- human prose: [`string-apostrophes`](https://codsen.com/os/string-apostrophes)
 - Variety of program API styles:
 	- Classes-based API: [`ranges-push`](https://codsen.com/os/ranges-push)
 	- Callback-only API: [`ast-monkey-traverse-with-lookahead`](https://codsen.com/os/ast-monkey-traverse-with-lookahead)
 	- (One of a dozen) CLI: [`csv-sort-cli`](https://codsen.com/os/csv-sort-cli)
-- Stripping parsed tokens from HTML/CSS: [`stristri`](https://codsen.com/os/stristri) — done by traversing AST directly from [a tokenizer](https://codsen.com/os/codsen-tokenizer) — but we have an own AST traversing program too: [🐒 `ast-monkey`](https://codsen.com/os/ast-monkey)
+- Stripping parsed tokens from HTML/CSS: [`stristri`](https://codsen.com/os/stristri) — done by traversing AST directly from [a tokeniser](https://codsen.com/os/codsen-tokenizer) — but we have an own AST traversing program too: [🐒 `ast-monkey`](https://codsen.com/os/ast-monkey)
 - Parser, which produces our custom-design AST: [`codsen-parser`](https://codsen.com/os/codsen-parser)
 - Plugins:
 	- Gulp plugin: [`gulp-email-remove-unused-css`](https://codsen.com/os/gulp-email-remove-unused-css)
@@ -37,10 +38,10 @@
 - String uglifier based on cryptography principles: [`string-uglify`](https://codsen.com/os/string-uglify)
 - Reduce but over promises: [`json-comb`](https://codsen.com/os/json-comb) (surprisingly a common pattern, used by CLI's which read multiple files in async)
 
-See the full list on [codsen.com/os/](https://codsen.com/os)
+See the complete list on [codsen.com/os/](https://codsen.com/os)
 
-All the above was done outside 9–5 work hours, and many people (including me) use them in production, during 9–5.
+I write programs outside my day job, outside 9–5, but many people (including myself) use them during 9–5.
 
-I ❤️ programming because I can create things and because my programs empower people to build even greater programs and to perform business tasks and get paid and feed their families.
+I ❤️ programming.
 
 Thanks for visiting!
