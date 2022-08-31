@@ -22,7 +22,7 @@
 	- Classes-based API: [`ranges-push`](https://codsen.com/os/ranges-push)
 	- Callback-only API: [`ast-monkey-traverse-with-lookahead`](https://codsen.com/os/ast-monkey-traverse-with-lookahead)
 	- (One of a dozen) CLI: [`csv-sort-cli`](https://codsen.com/os/csv-sort-cli)
-- Stripping parsed tokens from HTML/CSS: [`stristri`](https://codsen.com/os/stristri) — done by traversing AST directly from [a tokeniser](https://codsen.com/os/codsen-tokenizer) — but we have an own AST traversing program too: [🐒 `ast-monkey`](https://codsen.com/os/ast-monkey)
+- Stripping parsed tokens from HTML/CSS: [`stristri`](https://codsen.com/os/stristri) — done by traversing AST directly from [a tokeniser](https://codsen.com/os/codsen-tokenizer) — but I have an own AST traversing program too: [🐒 `ast-monkey`](https://codsen.com/os/ast-monkey)
 - Parser, which produces our custom-design AST: [`codsen-parser`](https://codsen.com/os/codsen-parser)
 - Plugins:
 	- Gulp plugin: [`gulp-email-remove-unused-css`](https://codsen.com/os/gulp-email-remove-unused-css)
