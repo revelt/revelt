@@ -37,7 +37,7 @@
 - String uglifier based on cryptography principles: [`string-uglify`](https://codsen.com/os/string-uglify)
 - Reduce but over promises: [`json-comb`](https://codsen.com/os/json-comb) (surprisingly a common pattern, used by CLI's which read multiple files in async)
 
-See the complete list on [codsen.com/os/](https://codsen.com/os)
+See the complete list on [codsen.com/os](https://codsen.com/os)
 
 I write programs outside my day job, outside 9–5, but many people (including myself) use them during 9–5.
 
