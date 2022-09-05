@@ -31,7 +31,6 @@
 - _Observer pattern_ using Node's `EventEmmitter`: [`emlint`](https://codsen.com/os/emlint)
 - Fetches values from the internet: [`update-versions`](https://codsen.com/os/update-versions)
 - Unicode astral character-aware: [`easy-replace`](https://codsen.com/os/easy-replace)
-- IANA specs turned into a program: [`is-language-code`](https://codsen.com/os/is-language-code)
 - Backwards-engineering a 3rd party API: [`bitbucket-slug`](https://codsen.com/os/bitbucket-slug)
 - Recursion: [`ast-monkey-traverse`](https://codsen.com/os/ast-monkey-traverse)
 - Normalising the perf benchmark scores against a mock program: [`perf-ref`](https://codsen.com/os/perf-ref)
