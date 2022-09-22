@@ -8,7 +8,7 @@
 	- A regex: [`regex-empty-conditional-comments`](https://codsen.com/os/regex-empty-conditional-comments)	
 	- A `Set`: [`html-entities-not-email-friendly`](https://codsen.com/os/html-entities-not-email-friendly)
 	- CSS as string: [`generate-atomic-css`](https://codsen.com/os/generate-atomic-css)
-	- `2^n` combinations of plain options object boolean values for unit tests: [`test-mixer`](https://codsen.com/os/test-mixer)
+	- `2ⁿ` combinations of plain options object boolean values for unit tests: [`test-mixer`](https://codsen.com/os/test-mixer)
 - Scannerless parser algorithm, processing the...
 	- HTML: [`html-crush`](https://codsen.com/os/html-crush)
 	- CSS: [`string-extract-sass-vars`](https://codsen.com/os/string-extract-sass-vars)
