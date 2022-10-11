@@ -1,6 +1,14 @@
-👋 Hi! I'm Roy; I'm from the UK 🇬🇧. All my Open Source projects are published under GitHub [codsen](https://github.com/codsen) org account, not here. Here you'll see primarily forks which I haven't bothered to delete yet.
+👋 Hi! I'm Roy; I'm from the UK 🇬🇧.
 
-🔭 I wrote and maintain a broad spectrum of Open Source programs, for example:
+I've been making websites since Macromedia and FrontPage were a thing.
+
+My personality type seems to be [ESTJ-A](https://www.16personalities.com/estj-personality) but take it with a grain of salt.
+
+Away from the screens, I like: Jujutsu, lifting, hiking, languages, geometry, rollercoasters, ale, steak and sea.
+
+🔭 All my Open Source projects are published on [Codsen](https://github.com/codsen), my company's GitHub org account, not here.
+
+I wrote and maintain a broad spectrum of Open Source programs, for example:
 
 - A big, CPU-bound program: [`detergent`](https://codsen.com/os/detergent), [`email-comb`](https://codsen.com/os/email-comb)
 - Exports...
@@ -39,8 +47,6 @@
 
 See the complete list on [codsen.com/os](https://codsen.com/os)
 
-I write programs outside my day job, outside 9–5, but many people (including myself) use them during 9–5.
-
-I ❤️ programming.
+I write programs outside 9–5, but many people (including myself) use them during 9–5.
 
 Thanks for visiting!
