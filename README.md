@@ -1,11 +1,5 @@
 👋 Hi! I'm Roy; I'm from the UK 🇬🇧.
 
-I've been making websites since Macromedia and FrontPage were a thing.
-
-My personality type seems to be [ESTJ-A](https://www.16personalities.com/estj-personality) but take it with a grain of salt.
-
-Away from the screens, I like: Jujutsu, lifting, hiking, languages, geometry, rollercoasters, ale, steak and sea.
-
 🔭 All my Open Source projects are published on [Codsen](https://github.com/codsen), my company's GitHub org account, not here.
 
 I wrote and maintain a broad spectrum of Open Source programs, for example:
