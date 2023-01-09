@@ -2,7 +2,7 @@
 
 🔭 All my Open Source projects are published on [Codsen](https://github.com/codsen), my company's GitHub org account, not here.
 
-I wrote and maintain a broad spectrum of Open Source programs, for example:
+I wrote and maintain a broad spectrum of Open Source programs (npm handle `royston`, [see npm-stat](http://codsen.com/royston)), for example:
 
 - A big, CPU-bound program: [`detergent`](https://codsen.com/os/detergent), [`email-comb`](https://codsen.com/os/email-comb)
 - Exports...
