@@ -1,6 +1,6 @@
 👋 Hi! I'm Roy; I'm from the UK 🇬🇧.
 
-🔭 All my Open Source projects are published on [Codsen](https://github.com/codsen), my company's GitHub org account, not here.
+🔭 All my Open Source projects are published on [Codsen](https://github.com/codsen), my personal company's GitHub org account, not here.
 
 I wrote and maintain a broad spectrum of Open Source programs (npm handle `royston`, [see npm-stat](http://codsen.com/royston)), for example:
 
