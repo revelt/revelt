@@ -41,6 +41,4 @@ I wrote and maintain a broad spectrum of Open Source programs (npm handle `royst
 
 See the complete list on [codsen.com/os](https://codsen.com/os)
 
-I write programs outside 9–5, but many people (including myself) use them during 9–5.
-
 Thanks for visiting!
